@@ -11,7 +11,7 @@ I’m passionate about embedded systems, computer vision, and assistive technolo
 <!-- Languages Table -->
 <table>
   <tr>
-    <td align="center" colspan="6"><strong>Languages</strong></td>
+    <td align="center" colspan="7"><strong>Languages</strong></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td>
