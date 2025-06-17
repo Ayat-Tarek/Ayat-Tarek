@@ -1,6 +1,6 @@
 ### 👋 Hello, I’m Ayat
 
-I’m a third-year student at the Faculty of Engineering, Cairo University, majoring in Systems and Biomedical Engineering.
+I’m a student at Faculty of Engineering, Cairo University, majoring in Systems and Biomedical Engineering.
 
 I’m passionate about embedded systems, computer vision, and assistive technology. I also have a growing interest in research and hands-on experimentation — especially projects that blend engineering with real-world impact.
 
