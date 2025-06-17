@@ -8,6 +8,7 @@ I’m passionate about embedded systems, computer vision, and assistive technolo
 
 ### 🛠️ Skills
 
+<!-- Languages Table -->
 <table>
   <tr>
     <td align="center" colspan="6"><strong>Languages</strong></td>
@@ -21,9 +22,12 @@ I’m passionate about embedded systems, computer vision, and assistive technolo
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></td>
   </tr>
+</table>
 
-  <tr><td colspan="7" height="10px"></td></tr>
+<br>
 
+<!-- Frameworks Table -->
+<table>
   <tr>
     <td align="center" colspan="6"><strong>Frameworks</strong></td>
   </tr>
@@ -35,9 +39,12 @@ I’m passionate about embedded systems, computer vision, and assistive technolo
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" /></td>
   </tr>
+</table>
 
-  <tr><td colspan="6" height="10px"></td></tr>
+<br>
 
+<!-- Tools Table -->
+<table>
   <tr>
     <td align="center" colspan="6"><strong>Tools</strong></td>
   </tr>
@@ -50,6 +57,7 @@ I’m passionate about embedded systems, computer vision, and assistive technolo
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" /></td>
   </tr>
 </table>
+
 ---
 
 ### 📬 Contact
